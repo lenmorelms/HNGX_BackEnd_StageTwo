@@ -9,6 +9,9 @@
     "start": "node ./server.js",
     "server": "nodemon ./server.js"
   },
+  "engines": {
+    "node": ">=14.20.1"
+  },  
   "author": "Learnmore Mombe",
   "license": "ISC",
   "dependencies": {
